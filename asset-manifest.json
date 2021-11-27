@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akdavila2/todolist/static/css/main.ede49cca.chunk.css",
+    "main.js": "/akdavila2/todolist/static/js/main.bb808b39.chunk.js",
+    "main.js.map": "/akdavila2/todolist/static/js/main.bb808b39.chunk.js.map",
+    "runtime-main.js": "/akdavila2/todolist/static/js/runtime-main.6918f095.js",
+    "runtime-main.js.map": "/akdavila2/todolist/static/js/runtime-main.6918f095.js.map",
+    "static/js/2.53354a46.chunk.js": "/akdavila2/todolist/static/js/2.53354a46.chunk.js",
+    "static/js/2.53354a46.chunk.js.map": "/akdavila2/todolist/static/js/2.53354a46.chunk.js.map",
+    "index.html": "/akdavila2/todolist/index.html",
+    "static/css/main.ede49cca.chunk.css.map": "/akdavila2/todolist/static/css/main.ede49cca.chunk.css.map",
+    "static/js/2.53354a46.chunk.js.LICENSE.txt": "/akdavila2/todolist/static/js/2.53354a46.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/akdavila2/todolist/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/akdavila2/todolist/static/media/delete.331149da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6918f095.js",
+    "static/js/2.53354a46.chunk.js",
+    "static/css/main.ede49cca.chunk.css",
+    "static/js/main.bb808b39.chunk.js"
+  ]
+}
